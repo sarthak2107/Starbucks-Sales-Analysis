@@ -47,7 +47,7 @@ An interactive and data-driven Power BI dashboard designed to analyze and visual
 
 ## 🖼️ Dashboard Preview
 
-![Starbucks Dashboard Preview](ad06f882-011f-4199-9c85-be533c19f47f.png)
+![Starbucks Dashboard Preview](starbucks_dashboard.png)
 
 ---
 
