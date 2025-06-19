@@ -86,10 +86,11 @@ An interactive and data-driven Power BI dashboard designed to analyze and visual
 
 ---
 
-## 🙋‍♂️ Author
+## 📧 Contact
 
-**Sarthak Salvi**  
-📧 [sarthaksalvi2107@gmail.com](mailto:sarthaksalvi2107@gmail.com)
+Feel free to reach out for feedback or collaborations!  
+**Author**: Sarthak Salvi  
+**Email**: [sarthaksalvi2107@gmail.com]
 
 ---
 
