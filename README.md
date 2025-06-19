@@ -64,7 +64,7 @@ An interactive and data-driven Power BI dashboard designed to analyze and visual
 ## 📁 Files Included
 
 - `Starbucks Data Analysis.pbix` – Complete Power BI report file
-- `dashboard-preview.png` – Dashboard image for preview
+- `starbucks_dashboard.png` – Dashboard image for preview
 
 ---
 
