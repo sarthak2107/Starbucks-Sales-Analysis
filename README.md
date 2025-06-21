@@ -94,10 +94,4 @@ Feel free to reach out for feedback or collaborations!
 
 ---
 
-## 📌 License
-
-This project is for educational and portfolio purposes only.
-
----
-
 ⭐ *If you like this project, don't forget to give it a star!*
